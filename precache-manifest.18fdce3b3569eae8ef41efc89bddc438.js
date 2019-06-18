@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9949b22f7f0f9d0febf14f20f5cac38",
+    "revision": "49c77f62d0e0f24b9dd285da231ab8c8",
     "url": "/rclone-webui-react/index.html"
   },
   {
-    "revision": "27fb3cee025f08cc1248",
+    "revision": "3cddedfbb3c4fbde5131",
     "url": "/rclone-webui-react/static/css/4.e756ca2a.chunk.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/css/5.fa4a79a6.chunk.css"
   },
   {
-    "revision": "3f0060ed113f0f84616b",
+    "revision": "88d455e0d6abd62b9f76",
     "url": "/rclone-webui-react/static/css/main.040afb7f.chunk.css"
   },
   {
@@ -32,28 +32,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/11.47964452.chunk.js"
   },
   {
-    "revision": "5687bcfb37caf8131f0b",
-    "url": "/rclone-webui-react/static/js/12.0f4f97c9.chunk.js"
+    "revision": "cedbb8efbb2765914713",
+    "url": "/rclone-webui-react/static/js/12.e27e2ded.chunk.js"
   },
   {
     "revision": "2d0a64504153b9f285af",
     "url": "/rclone-webui-react/static/js/13.01f8dc86.chunk.js"
   },
   {
-    "revision": "9d86e234c7741390454f",
-    "url": "/rclone-webui-react/static/js/14.5b60c2fe.chunk.js"
+    "revision": "8ec9b92af9f6dbfcc291",
+    "url": "/rclone-webui-react/static/js/14.2527efb7.chunk.js"
   },
   {
     "revision": "7675b73e37d737beacc6",
     "url": "/rclone-webui-react/static/js/15.abd2293a.chunk.js"
   },
   {
-    "revision": "ad3543de97abd3fcb385",
-    "url": "/rclone-webui-react/static/js/16.833907fa.chunk.js"
+    "revision": "340893f17ba3fb7fdaa0",
+    "url": "/rclone-webui-react/static/js/16.f26726a3.chunk.js"
   },
   {
-    "revision": "4e4daa35b3bbe67df13f",
-    "url": "/rclone-webui-react/static/js/17.faedb1b9.chunk.js"
+    "revision": "39ffb02bb7673a7aa853",
+    "url": "/rclone-webui-react/static/js/17.0724f3c5.chunk.js"
   },
   {
     "revision": "404af2e394259102fe2d",
@@ -68,36 +68,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/20.83b05e17.chunk.js"
   },
   {
-    "revision": "27fb3cee025f08cc1248",
-    "url": "/rclone-webui-react/static/js/4.59d86b64.chunk.js"
+    "revision": "3cddedfbb3c4fbde5131",
+    "url": "/rclone-webui-react/static/js/4.0ce01685.chunk.js"
   },
   {
     "revision": "3b39484731b23ca830a6",
     "url": "/rclone-webui-react/static/js/5.b8c6cebd.chunk.js"
   },
   {
-    "revision": "8b64e241eb68cf5c3198",
-    "url": "/rclone-webui-react/static/js/6.88e3570c.chunk.js"
+    "revision": "340d54be444e79a295ef",
+    "url": "/rclone-webui-react/static/js/6.d3529fdc.chunk.js"
   },
   {
-    "revision": "0468f6364e4f5fd1d025",
-    "url": "/rclone-webui-react/static/js/7.e8822213.chunk.js"
+    "revision": "88f406df96290541c7ab",
+    "url": "/rclone-webui-react/static/js/7.24b3d958.chunk.js"
   },
   {
     "revision": "34f0ec4a50b0b17424b6",
     "url": "/rclone-webui-react/static/js/8.c6b40478.chunk.js"
   },
   {
-    "revision": "80ff643b3e79a188290e",
-    "url": "/rclone-webui-react/static/js/9.62743355.chunk.js"
+    "revision": "59645b165bf46defddd6",
+    "url": "/rclone-webui-react/static/js/9.e87656db.chunk.js"
   },
   {
-    "revision": "3f0060ed113f0f84616b",
-    "url": "/rclone-webui-react/static/js/main.9bcca211.chunk.js"
+    "revision": "88d455e0d6abd62b9f76",
+    "url": "/rclone-webui-react/static/js/main.90f4cfb3.chunk.js"
   },
   {
-    "revision": "421c549f01f52aa5d89a",
-    "url": "/rclone-webui-react/static/js/runtime~main.79c6d3f4.js"
+    "revision": "6faeb870cbfe38066446",
+    "url": "/rclone-webui-react/static/js/runtime~main.90b915fe.js"
   },
   {
     "revision": "0087dce419a7376eb06c837f740d31eb",
