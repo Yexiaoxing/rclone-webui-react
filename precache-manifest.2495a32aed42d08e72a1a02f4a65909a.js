@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1a4faecae20a9d3d1a0cdf3dee03807",
+    "revision": "69d99534536888ad00cc7c1b78b0db16",
     "url": "/rclone-webui-react/index.html"
   },
   {
-    "revision": "e05dd6f681609d679923",
+    "revision": "8929a90300eecd9ee012",
     "url": "/rclone-webui-react/static/css/5.e756ca2a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/0.88d4350b.chunk.js"
   },
   {
-    "revision": "2491ef9557003f98c1a0",
-    "url": "/rclone-webui-react/static/js/1.50a7e930.chunk.js"
+    "revision": "aa44952121dfdca85d7c",
+    "url": "/rclone-webui-react/static/js/1.1d500057.chunk.js"
   },
   {
     "revision": "865f96cf9a31800e73d4",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/21.719eb53c.chunk.js"
   },
   {
-    "revision": "e05dd6f681609d679923",
-    "url": "/rclone-webui-react/static/js/5.ef462161.chunk.js"
+    "revision": "8929a90300eecd9ee012",
+    "url": "/rclone-webui-react/static/js/5.2e8a32ec.chunk.js"
   },
   {
     "revision": "be27546e80db297ea3f0",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/main.6a112bb4.chunk.js"
   },
   {
-    "revision": "b8be3adf931a2b22809a",
-    "url": "/rclone-webui-react/static/js/runtime~main.803c92d8.js"
+    "revision": "2058366e16bfa425063d",
+    "url": "/rclone-webui-react/static/js/runtime~main.b199ea5b.js"
   },
   {
     "revision": "0087dce419a7376eb06c837f740d31eb",
