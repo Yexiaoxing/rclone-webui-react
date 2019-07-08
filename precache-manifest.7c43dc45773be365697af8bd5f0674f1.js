@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f72acd27d9fba5083a1f90bce478cc4f",
+    "revision": "31050456cbd05e6181351c1d9b37b733",
     "url": "/rclone-webui-react/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/css/6.e756ca2a.chunk.css"
   },
   {
-    "revision": "5e7b96dcf6a74a6b07cb",
-    "url": "/rclone-webui-react/static/css/main.36673871.chunk.css"
+    "revision": "03b9e87b3027715c5150",
+    "url": "/rclone-webui-react/static/css/main.791d937f.chunk.css"
   },
   {
     "revision": "1a964360fc38c535a005",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/2.3fef2df6.chunk.js"
   },
   {
-    "revision": "db2429267392aa45c04b",
-    "url": "/rclone-webui-react/static/js/20.b25eb1ef.chunk.js"
+    "revision": "1958e799a190f4f72796",
+    "url": "/rclone-webui-react/static/js/20.86649b18.chunk.js"
   },
   {
     "revision": "c747b72ad9545cab4ec5",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/6.2aa328c3.chunk.js"
   },
   {
-    "revision": "337f7c08d805a986baf2",
-    "url": "/rclone-webui-react/static/js/7.213765db.chunk.js"
+    "revision": "8d5e7eb2d1c10b60c811",
+    "url": "/rclone-webui-react/static/js/7.c30bf701.chunk.js"
   },
   {
     "revision": "f6920ea5990d7f92356b",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/9.45a332a9.chunk.js"
   },
   {
-    "revision": "5e7b96dcf6a74a6b07cb",
+    "revision": "03b9e87b3027715c5150",
     "url": "/rclone-webui-react/static/js/main.eb7c1d0a.chunk.js"
   },
   {
-    "revision": "a15f249086fd6b0e5854",
-    "url": "/rclone-webui-react/static/js/runtime~main.8b9df3d1.js"
+    "revision": "b595e71bb70b2ea83aef",
+    "url": "/rclone-webui-react/static/js/runtime~main.4a01d5df.js"
   },
   {
     "revision": "0087dce419a7376eb06c837f740d31eb",
