@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6299b189eca0bf1943b4ba15cc849fe8",
+    "revision": "b0b9457d68176258c6b9a60f31d9a875",
     "url": "/rclone-webui-react/index.html"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/18.c7be274c.chunk.js"
   },
   {
-    "revision": "d8929e429fec0917e47d",
-    "url": "/rclone-webui-react/static/js/19.a22da4f5.chunk.js"
+    "revision": "a29d705707833594139c",
+    "url": "/rclone-webui-react/static/js/19.2a3b6c74.chunk.js"
   },
   {
     "revision": "68738fc8c62b31604b08",
@@ -96,16 +96,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rclone-webui-react/static/js/8.69a3103c.chunk.js"
   },
   {
-    "revision": "2e03db78eb4e6d2f9136",
-    "url": "/rclone-webui-react/static/js/9.41b13049.chunk.js"
+    "revision": "dc70443d4806af527b41",
+    "url": "/rclone-webui-react/static/js/9.42bc7fbc.chunk.js"
   },
   {
     "revision": "e16ce9f85168bd83c683",
     "url": "/rclone-webui-react/static/js/main.54cbb783.chunk.js"
   },
   {
-    "revision": "f7f7daebbc4b2eda8f9b",
-    "url": "/rclone-webui-react/static/js/runtime~main.c4922683.js"
+    "revision": "33967f45dda19c2b8129",
+    "url": "/rclone-webui-react/static/js/runtime~main.44b28f6a.js"
   },
   {
     "revision": "0087dce419a7376eb06c837f740d31eb",
